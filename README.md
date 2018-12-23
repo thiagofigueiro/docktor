@@ -1,3 +1,7 @@
+This has been added to the upstream project: https://github.com/minio/doctor/commit/66a64c56c257b36f7782374e6c5b1cbe195f7be1#diff-3254677a7917c6c01f55212f86c57fbf
+
+This project is archived.
+
 # Docktor
 
 A Docker image to run https://github.com/minio/doctor.
